@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- displays site properly based on user's device -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" integrity="sha512-1ycn6IcaQQ40/MKBW2W4Rhis/DbILU74C1vSrLJxCq57o941Ym01SwNsOMqvEBFlcgUa6xLiPY/NS5R+E6ztJQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <link rel="stylesheet" href="style.css" class="css">
+  <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
+
+  <title>Frontend Mentor | Base Apparel coming soon page</title>
+</head>
+
+<body>
+
+  <div class="container">
+    <header>
+      <img src="./images/logo.svg" alt="company-logo" id="logo">
+    </header>
+    <picture class="hero">
+      <source media="(max-width: 799px)" srcset="./images/hero-mobile.jpg">
+      <source media="(min-width: 800px)" srcset="./images/hero-desktop.jpg">
+      <img src="" alt="woman-posing">
+    </picture>
+    <main>
+      <h1><span>We're</span> coming soon</h1>
+      <p>Hello fellow shoppers! We're currently building our new fashion store.
+        Add your email below to stay up-to-date with announcements and our launch deals.
+      </p>
+      <form action="">
+        <input type="email" name="" class='email' id="email" required placeholder='Email Address'>
+        <button id="submit">
+          <img src="./images/icon-arrow.svg" alt="arrow-right-icon" srcset="">
+          <!-- <i class="fas fa-chevron-right"></i> -->
+        </button>
+        <label for="email" class='message'>Please provide a valid email</label>
+      </form>
+    </main>
+  </div>
+
+  <footer>
+    <p class="attribution">
+      Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>.
+      Coded by <a href="https://github.com/Reykjabik">Reykjabik</a>.
+    </p>
+  </footer>
+
+  <script src='./script.js'></script>
+</body>
+
+</html>
