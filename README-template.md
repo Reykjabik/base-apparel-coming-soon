@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/challenges/base-apparel-coming-soon-page-5d46b47f8db8a7063f9331a0/hub/base-apparel-with-html-css-and-js-NW3-DJTSt](https://www.frontendmentor.io/challenges/base-apparel-coming-soon-page-5d46b47f8db8a7063f9331a0/hub/base-apparel-with-html-css-and-js-NW3-DJTSt)
-- Live Site URL: [https://reykjabik.github.io/base-apparel-coming-soon/](https://reykjabik.github.io/base-apparel-coming-soon/)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/challenges/base-apparel-coming-soon-page-5d46b47f8db8a7063f9331a0/hub/base-apparel-with-html-css-and-js-NW3-DJTSt)
+- Live Site URL: [Github Page](https://reykjabik.github.io/base-apparel-coming-soon/)
 
 ## My process
 
